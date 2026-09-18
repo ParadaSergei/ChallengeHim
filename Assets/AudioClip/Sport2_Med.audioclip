@@ -19,7 +19,7 @@ AudioClip:
   m_LoadInBackground: 0
   m_Legacy3D: 1
   m_Resource:
-    m_Source: Assets\AudioClip\Sport2_Med.audioclip.resS
+    m_Source: Assets/AudioClip/Sport2_Med.audioclip.resS
     m_Offset: 275687
     m_Size: 31401
   m_CompressionFormat: 7

@@ -19,7 +19,7 @@ AudioClip:
   m_LoadInBackground: 1
   m_Legacy3D: 1
   m_Resource:
-    m_Source: Assets\AudioClip\SoundTrack3.audioclip.resS
+    m_Source: Assets/AudioClip/SoundTrack3.audioclip.resS
     m_Offset: 0
     m_Size: 2621164
   m_CompressionFormat: 7

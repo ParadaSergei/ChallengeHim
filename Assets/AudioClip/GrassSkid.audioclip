@@ -19,7 +19,7 @@ AudioClip:
   m_LoadInBackground: 0
   m_Legacy3D: 1
   m_Resource:
-    m_Source: Assets\AudioClip\GrassSkid.audioclip.resS
+    m_Source: Assets/AudioClip/GrassSkid.audioclip.resS
     m_Offset: 1299101
     m_Size: 28488
   m_CompressionFormat: 7
