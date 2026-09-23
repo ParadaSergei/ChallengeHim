@@ -19,7 +19,7 @@ AudioClip:
   m_LoadInBackground: 0
   m_Legacy3D: 1
   m_Resource:
-    m_Source: Assets\AudioClip\ExhaustFire4.audioclip.resS
+    m_Source: Assets/AudioClip/ExhaustFire4.audioclip.resS
     m_Offset: 1941447
     m_Size: 7709
   m_CompressionFormat: 7

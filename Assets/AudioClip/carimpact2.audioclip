@@ -19,7 +19,7 @@ AudioClip:
   m_LoadInBackground: 0
   m_Legacy3D: 1
   m_Resource:
-    m_Source: Assets\AudioClip\carimpact2.audioclip.resS
+    m_Source: Assets/AudioClip/carimpact2.audioclip.resS
     m_Offset: 405299
     m_Size: 56345
   m_CompressionFormat: 7

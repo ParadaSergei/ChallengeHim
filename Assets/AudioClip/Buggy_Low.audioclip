@@ -19,7 +19,7 @@ AudioClip:
   m_LoadInBackground: 0
   m_Legacy3D: 1
   m_Resource:
-    m_Source: Assets\AudioClip\Buggy_Low.audioclip.resS
+    m_Source: Assets/AudioClip/Buggy_Low.audioclip.resS
     m_Offset: 309679
     m_Size: 26219
   m_CompressionFormat: 7

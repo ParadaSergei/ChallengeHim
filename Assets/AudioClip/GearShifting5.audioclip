@@ -19,7 +19,7 @@ AudioClip:
   m_LoadInBackground: 0
   m_Legacy3D: 1
   m_Resource:
-    m_Source: Assets\AudioClip\GearShifting5.audioclip.resS
+    m_Source: Assets/AudioClip/GearShifting5.audioclip.resS
     m_Offset: 1897536
     m_Size: 43911
   m_CompressionFormat: 7

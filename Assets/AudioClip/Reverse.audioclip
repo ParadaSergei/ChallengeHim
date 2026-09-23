@@ -19,7 +19,7 @@ AudioClip:
   m_LoadInBackground: 0
   m_Legacy3D: 1
   m_Resource:
-    m_Source: Assets\AudioClip\Reverse.audioclip.resS
+    m_Source: Assets/AudioClip/Reverse.audioclip.resS
     m_Offset: 536280
     m_Size: 4682
   m_CompressionFormat: 7

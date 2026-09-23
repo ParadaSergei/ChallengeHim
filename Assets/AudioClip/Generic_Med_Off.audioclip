@@ -19,7 +19,7 @@ AudioClip:
   m_LoadInBackground: 0
   m_Legacy3D: 1
   m_Resource:
-    m_Source: Assets\AudioClip\Generic_Med_Off.audioclip.resS
+    m_Source: Assets/AudioClip/Generic_Med_Off.audioclip.resS
     m_Offset: 251835
     m_Size: 23852
   m_CompressionFormat: 7

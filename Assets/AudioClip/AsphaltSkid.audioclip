@@ -19,7 +19,7 @@ AudioClip:
   m_LoadInBackground: 0
   m_Legacy3D: 1
   m_Resource:
-    m_Source: Assets\AudioClip\AsphaltSkid.audioclip.resS
+    m_Source: Assets/AudioClip/AsphaltSkid.audioclip.resS
     m_Offset: 1516512
     m_Size: 182692
   m_CompressionFormat: 7
